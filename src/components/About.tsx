@@ -52,7 +52,7 @@ const About = () => {
                   <h4 className="font-semibold text-emerald-800">
                     Вместимость
                   </h4>
-                  <p className="text-gray-600">До 30 гостей</p>
+                  <p className="text-gray-600">До 24 гостей</p>
                 </div>
               </div>
 
