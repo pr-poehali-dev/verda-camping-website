@@ -11,16 +11,16 @@ const About = () => {
             </h2>
 
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-              База отдыха "Verda" расположена в живописном уголке природы, где
-              сливаются воедино красота леса и гладь чистого озера. Мы создали
-              это место для тех, кто ценит качественный отдых в гармонии с
-              природой.
+              База отдыха "Verda" расположена в живописном лесу Варникен
+              Калининградской области. Эко-курорт создан для тех, кто ищет
+              гармонию с природой и качественный отдых вдали от городской суеты.
             </p>
 
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              Наша команда профессионалов заботится о каждом госте, предоставляя
-              высококлассный сервис и незабываемые впечатления. Здесь вы найдете
-              всё необходимое для идеального отпуска.
+              На территории 9 современных домиков, ресторан "Шишка" с дровяной
+              печью, СПА-комплекс с термобочками, детская площадка и эко-тропы.
+              Мы предлагаем полное погружение в природу с максимальным
+              комфортом.
             </p>
 
             <div className="grid grid-cols-2 gap-6">
@@ -30,21 +30,17 @@ const About = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-emerald-800">Локация</h4>
-                  <p className="text-gray-600">У озера в лесу</p>
+                  <p className="text-gray-600">Лес Варникен</p>
                 </div>
               </div>
 
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center">
-                  <Icon
-                    name="Calendar"
-                    className="text-emerald-600"
-                    size={20}
-                  />
+                  <Icon name="Home" className="text-emerald-600" size={20} />
                 </div>
                 <div>
-                  <h4 className="font-semibold text-emerald-800">Работаем</h4>
-                  <p className="text-gray-600">Круглый год</p>
+                  <h4 className="font-semibold text-emerald-800">Домики</h4>
+                  <p className="text-gray-600">9 современных</p>
                 </div>
               </div>
 
@@ -56,17 +52,21 @@ const About = () => {
                   <h4 className="font-semibold text-emerald-800">
                     Вместимость
                   </h4>
-                  <p className="text-gray-600">До 200 гостей</p>
+                  <p className="text-gray-600">До 30 гостей</p>
                 </div>
               </div>
 
               <div className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center">
-                  <Icon name="Star" className="text-emerald-600" size={20} />
+                  <Icon
+                    name="TreePine"
+                    className="text-emerald-600"
+                    size={20}
+                  />
                 </div>
                 <div>
-                  <h4 className="font-semibold text-emerald-800">Опыт</h4>
-                  <p className="text-gray-600">Более 10 лет</p>
+                  <h4 className="font-semibold text-emerald-800">Эко-формат</h4>
+                  <p className="text-gray-600">100% природа</p>
                 </div>
               </div>
             </div>

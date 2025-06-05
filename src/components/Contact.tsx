@@ -28,9 +28,9 @@ const Contact = () => {
                   Адрес
                 </h3>
                 <p className="text-gray-600">
-                  Московская область, Дмитровский район
+                  Калининградская область
                   <br />
-                  деревня Лесная, ул. Озерная, 15
+                  лес Варникен, база отдыха "Verda"
                 </p>
               </div>
             </div>
@@ -44,9 +44,9 @@ const Contact = () => {
                   Телефон
                 </h3>
                 <p className="text-gray-600">
-                  +7 (495) 123-45-67
+                  +7 (4012) 567-890
                   <br />
-                  +7 (925) 987-65-43
+                  +7 (921) 234-56-78
                 </p>
               </div>
             </div>
@@ -60,9 +60,9 @@ const Contact = () => {
                   Email
                 </h3>
                 <p className="text-gray-600">
-                  info@verda-resort.ru
+                  info@verda-varnikem.ru
                   <br />
-                  booking@verda-resort.ru
+                  booking@verda-varnikem.ru
                 </p>
               </div>
             </div>

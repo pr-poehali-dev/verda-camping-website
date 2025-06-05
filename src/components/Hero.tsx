@@ -25,8 +25,9 @@ const Hero = () => {
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed">
-          Окунитесь в мир природы и комфорта. Идеальное место для отдыха всей
-          семьей в окружении живописных лесов и чистых озер.
+          Эко-курорт в лесу Варникен, Калининградская область. 9 уютных домиков,
+          ресторан "Шишка", СПА-комплекс с термобочками и эко-тропы для единения
+          с природой.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

@@ -11,19 +11,19 @@ const Footer = () => {
               <h3 className="text-2xl font-bold">Verda</h3>
             </div>
             <p className="text-emerald-200 leading-relaxed">
-              База отдыха премиум-класса в окружении природы. Идеальное место
-              для отдыха и восстановления сил.
+              Эко-курорт в лесу Варникен, Калининградская область. 9 домиков,
+              ресторан "Шишка", СПА с термобочками.
             </p>
           </div>
 
           <div>
             <h4 className="text-lg font-semibold mb-4">Услуги</h4>
             <ul className="space-y-2 text-emerald-200">
-              <li>Проживание</li>
-              <li>Ресторан</li>
-              <li>SPA-центр</li>
-              <li>Спортивные активности</li>
-              <li>Конференц-зал</li>
+              <li>Домики для отдыха</li>
+              <li>Ресторан "Шишка"</li>
+              <li>СПА-комплекс</li>
+              <li>Эко-тропы</li>
+              <li>Зона йоги</li>
             </ul>
           </div>
 
@@ -32,15 +32,15 @@ const Footer = () => {
             <div className="space-y-2 text-emerald-200">
               <div className="flex items-center space-x-2">
                 <Icon name="Phone" size={16} />
-                <span>+7 (495) 123-45-67</span>
+                <span>+7 (4012) 567-890</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Icon name="Mail" size={16} />
-                <span>info@verda-resort.ru</span>
+                <span>info@verda-varnikem.ru</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Icon name="MapPin" size={16} />
-                <span>Московская область</span>
+                <span>Лес Варникен</span>
               </div>
             </div>
           </div>
